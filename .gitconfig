@@ -1,0 +1,9 @@
+[user]
+	email = mark.whitfield@civitaslearning.com
+	name = Mark Whitfield
+[credential]
+	helper = osxkeychain
+[push]
+	default = simple
+[core]
+	editor = vim
